@@ -13,4 +13,4 @@ ver. 2023
 
 Soluciones en Rust a los retos creados por [@midudev](https://github.com/midudev/) para [Codember 2023](https://codember.dev/).
 
-La idea es resolver cada reto de múltiples formas para ir aprendiendo Rust, primando la legibilidad sobre otras cuestiones (rendmiento, etc.). 
+La idea es resolver cada reto de múltiples formas para ir aprendiendo Rust.
